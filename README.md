@@ -50,8 +50,6 @@ Project aims to create a Journey Web Site via JavaScript. I fetched Datas from 2
 
 
 
-
-
 ## Author
 
 - Author - [Ozkan]
